@@ -7,5 +7,6 @@ public class CreateContactTest {
 public void Createcont(){
 	System.out.println("contact is created");
 	System.out.println("Hiiii");
+	System.out.println("Heloooooooooo");
 }
 }
